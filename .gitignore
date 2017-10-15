@@ -3,7 +3,6 @@ otypes*
 perf.data*
 .cache/*
 bin/*
-out/*
 gmon.out
 tags
 *__pycache__*

@@ -1,0 +1,5 @@
+Levels: 7 + root
+Nodes: 33468392160 + root
+Nodes per level: [1, 720, 222480, 25770240, 931115520, 3819720704, 3608363008, 3608363008]
+Tree size: 900827792656 bytes
+Max children: 720
